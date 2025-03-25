@@ -1,4 +1,4 @@
-'use client'; // Important: This marks it as a client component
+'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
 import Image from 'next/image';
