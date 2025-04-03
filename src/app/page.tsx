@@ -37,6 +37,6 @@ const Home: NextPage = () => {
       </section> */}
     </section>
   );
-};
+}; 
 
 export default Home;
