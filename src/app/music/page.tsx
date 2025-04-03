@@ -1,9 +1,9 @@
 import { NextPage } from 'next';
 
-const Blog: NextPage = () => {
+const Music: NextPage = () => {
     return (
         <></>
     );
 };
 
-export default Blog;
+export default Music;

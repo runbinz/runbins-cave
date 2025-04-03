@@ -5,8 +5,7 @@
 }
 
 html {
-  border: 3px solid #2323FF;
-  height: 100%;
+  height: 100vh;
 }
 
 body {
@@ -20,7 +19,6 @@ body {
   text-shadow:1px 1px 10px #fff, 1px 1px 10px darkblue;
 }
 
-/* Links */
 a {
   color: #2323FF;
   text-decoration: none;
@@ -31,7 +29,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Typography */
 h1 {
   font-size: 2.5rem;
   font-weight: normal;
@@ -49,7 +46,6 @@ p {
   margin-bottom: 1rem;
 }
 
-/* Lists */
 ul {
   list-style: none;
   padding-left: 1rem;

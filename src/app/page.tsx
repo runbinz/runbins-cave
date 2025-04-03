@@ -19,7 +19,7 @@ const Home: NextPage = () => {
             <a href="https://github.com/twelvenz/thefitnessapp">fitness app</a>: cool hackathon project with my friend. \o/
           </li>
           <li>
-            <a href="https://github.com/runbinz/rock-paper-scissors">rock-paper-scissor</a>: one of my earliest projects. had a lot of fun making this one!
+            <a href="https://github.com/runbinz/mp-4">danbooru post fetcher</a>: gets random posts from safebooru.
           </li>
         </ul>
       </section>
