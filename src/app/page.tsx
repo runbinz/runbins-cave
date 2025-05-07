@@ -19,10 +19,10 @@ const Home: NextPage = () => {
             <a href="https://github.com/twelvenz/thefitnessapp">fitness app</a>: cool hackathon project with my friend. \o/
           </li>
           <li>
-            <a href="mp-4-red-eta.vercel.app">danbooru post fetcher</a>: gets random posts from safebooru.
+            <a href="https://mp-4-red-eta.vercel.app">danbooru post fetcher</a>: gets random posts from safebooru.
           </li>
           <li>
-            <a href="lebronify-two.vercel.app">Lebronify</a>: listen to lebron parodies.
+            <a href="https://lebronify-two.vercel.app">Lebronify</a>: listen to lebron parodies.
           </li>
         </ul> 
       </section>
