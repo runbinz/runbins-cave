@@ -26,7 +26,7 @@ const Home: NextPage = () => {
           </li>
         </ul>
       </section>
-
+ 
       {/* <section id="friends" className={styles.friendsSection}>
         <h2>friends</h2>
         <div className={styles.friendsGrid}>
