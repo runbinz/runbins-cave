@@ -24,7 +24,7 @@ const Home: NextPage = () => {
           <li>
             <a href="lebronify-two.vercel.app">Lebronify</a>: listen to lebron parodies.
           </li>
-        </ul>
+        </ul> 
       </section>
   
       {/* <section id="friends" className={styles.friendsSection}>
