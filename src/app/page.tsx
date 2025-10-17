@@ -16,7 +16,7 @@ const Home: NextPage = () => {
             <a href="https://github.com/runbinz/solana_wallet_tracker">solana wallet tracker</a>: tracks your solana wallet and shows amount of sol you have.
           </li>
           <li>
-            <a href="https://github.com/twelvenz/thefitnessapp">finguardAI</a>: AI transaction fraud detector built with google gemini.
+            <a href="https://github.com/twelvenz/finguardAI">finguardAI</a>: AI transaction fraud detector built with google gemini.
           </li>
           <li>
             <a href="https://mp-4-red-eta.vercel.app">danbooru post fetcher</a>: gets random posts/images from safebooru.
