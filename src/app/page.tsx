@@ -13,13 +13,13 @@ const Home: NextPage = () => {
         <p>some interesting projects that are public:</p>
         <ul>
           <li>
-            <a href="https://github.com/runbinz/solana_wallet_tracker">cool solana project</a>: tracks your solana wallet and shows amount of sol you have. learned golang!
+            <a href="https://github.com/runbinz/solana_wallet_tracker">solana wallet tracker</a>: tracks your solana wallet and shows amount of sol you have.
           </li>
           <li>
-            <a href="https://github.com/twelvenz/thefitnessapp">fitness app</a>: cool hackathon project with my friend. \o/
+            <a href="https://github.com/twelvenz/thefitnessapp">finguardAI</a>: AI transaction fraud detector built with google gemini.
           </li>
           <li>
-            <a href="https://mp-4-red-eta.vercel.app">danbooru post fetcher</a>: gets random posts from safebooru.
+            <a href="https://mp-4-red-eta.vercel.app">danbooru post fetcher</a>: gets random posts/images from safebooru.
           </li>
           <li>
             <a href="https://lebronify-two.vercel.app">Lebronify</a>: listen to lebron parodies.
