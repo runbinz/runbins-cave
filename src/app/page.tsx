@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <p>some interesting projects that are public:</p>
         <ul>
           <li>
-            <a href="https://github.com/runbinz/solana_wallet_tracker">solana wallet tracker</a>: tracks your solana wallet and shows amount of sol you have.
+            <a href="https://solana.up.railway.app/">solana wallet tracker</a>: tracks your solana wallet and shows amount of sol you have.
           </li>
           <li>
             <a href="https://financialguard.vercel.app/">finguardAI</a>: AI transaction fraud detector built with google gemini.
